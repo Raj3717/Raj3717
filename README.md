@@ -1,7 +1,5 @@
 <img align="center" src="https://images.beastsofwar.com/2020/05/24831519-5eb15c9188a4f-5eb15c9188a50hellothere.jpg-999.jpg" />
-
 ### Hi there 👋
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Raj3717)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj3717&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
