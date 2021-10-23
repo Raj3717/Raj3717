@@ -1,3 +1,4 @@
+<img align="center" src="https://thumbs.gfycat.com/BigJauntyCheetah-max-1mb.gif" />
 ### Hi there 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Raj3717)
