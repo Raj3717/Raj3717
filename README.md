@@ -1,6 +1,6 @@
-<h1>Hi there 👋</h1>
+<h1>Hello there 🙋‍♂️</h1>
 
-<h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
+<h3>👨‍💻 &nbsp;About Me </h3>
 
 - 👨🏻‍🎓 &nbsp; Postgraduate at **Netaji Subhas University of Technology**.
 - 💻 &nbsp; I am a **Web Developer** and a Machine Learning enthusiast.
