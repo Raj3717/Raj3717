@@ -2,8 +2,8 @@
 
 <h3>👨‍💻 &nbsp;About Me </h3>
 
-- 👨🏻‍🎓 &nbsp; Postgraduate at **Netaji Subhas University of Technology**.
-- 💻 &nbsp; I am a **Web Developer** and a Machine Learning enthusiast.
+- 👨🏻‍🎓 &nbsp; Postgraduate from **Netaji Subhas University of Technology**.
+- 💻 &nbsp; Software Engineer at .
 - 🔧 &nbsp; Love finding simple solutions to complex problems. 
 - 🎧 &nbsp; 80's Rock helps me get through my day.
 - 🔎 &nbsp; Always on the lookout for new and exciting tech.
@@ -22,7 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)sx
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
