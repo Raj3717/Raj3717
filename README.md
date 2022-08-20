@@ -14,7 +14,7 @@
   C++, Python
 
 - 📈 &nbsp;
-  NumPy, Pandas, Keras
+  NumPy, Pandas, NLTK, Keras
   
 - 🌏 &nbsp;
   HTML5, CSS, JavaScript, React, Node.js
