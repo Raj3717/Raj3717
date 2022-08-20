@@ -17,7 +17,7 @@
   NumPy, Pandas, NLTK, Keras
   
 - 🌏 &nbsp;
-  HTML5, CSS, JavaScript, React, Node.js
+  HTML5, CSS, JavaScript, React
   
 - 🛢 &nbsp;
   MySQL
