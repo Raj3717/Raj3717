@@ -11,8 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 👨🏻‍💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  C++ , Python
 
 - 📈 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
