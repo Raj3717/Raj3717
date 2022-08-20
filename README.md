@@ -2,8 +2,8 @@
 
 <h3>👨‍💻 &nbsp;About Me </h3>
 
+- 💻 &nbsp; Software Engineer at Optum.
 - 👨🏻‍🎓 &nbsp; Postgraduate from **Netaji Subhas University of Technology**.
-- 💻 &nbsp; Software Engineer at .
 - 🔧 &nbsp; Love finding simple solutions to complex problems. 
 - 🎧 &nbsp; 80's Rock helps me get through my day.
 - 🔎 &nbsp; Always on the lookout for new and exciting tech.
