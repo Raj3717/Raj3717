@@ -8,7 +8,7 @@
 - 🎧 &nbsp; 80's Rock helps me get through my day.
 - 🔎 &nbsp; Always on the lookout for new and exciting tech.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills </h3>
 
 - 👨🏻‍💻 &nbsp;
   Python
