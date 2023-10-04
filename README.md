@@ -8,17 +8,6 @@
 - 🎧 &nbsp; 80's Rock helps me get through my day.
 - 🔎 &nbsp; Always on the lookout for new and exciting tech.
 
-<h3> 🛠 &nbsp;Skills </h3>
-
-- 👨🏻‍💻 &nbsp;
-  Python
-
-- 📈 &nbsp;
-  NumPy, Pandas, NLTK, Keras
-  
-- 🛢 &nbsp;
-  MySQL
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
