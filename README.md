@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Software Engineer at Optum.
+- 💻 &nbsp; Data Scientist at **Optum**.
 - 👨🏻‍🎓 &nbsp; Postgraduate from **Netaji Subhas University of Technology**.
 - 🔧 &nbsp; Love finding simple solutions to complex problems. 
 - 🎧 &nbsp; 80's Rock helps me get through my day.
@@ -11,13 +11,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 👨🏻‍💻 &nbsp;
-  C++, Python
+  Python
 
 - 📈 &nbsp;
   NumPy, Pandas, NLTK, Keras
-  
-- 🌏 &nbsp;
-  HTML5, CSS, JavaScript, React
   
 - 🛢 &nbsp;
   MySQL
