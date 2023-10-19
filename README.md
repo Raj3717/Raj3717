@@ -3,8 +3,7 @@
 <h3>👨‍💻 &nbsp;About Me </h3>
 
 - 💻 &nbsp; Data Scientist at **Optum**.
-- 👨🏻‍🎓 &nbsp; Postgraduate from **Netaji Subhas University of Technology**.
-- 🔧 &nbsp; Love finding simple solutions to complex problems. 
+- 👨🏻‍🎓 &nbsp; Postgraduate from **Netaji Subhas University of Technology**. 
 - 🎧 &nbsp; 80's Rock helps me get through my day.
 - 🔎 &nbsp; Always on the lookout for new and exciting tech.
 
