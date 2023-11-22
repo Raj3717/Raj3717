@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; Data Scientist at **Optum**.
 - 👨🏻‍🎓 &nbsp; Master's Degree in Computer Science. 
-- 🎧 &nbsp; Fueled by the power of Rock.
+- 🎧 &nbsp; Fueled by the power of Rock 🎸.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
