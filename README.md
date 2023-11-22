@@ -4,8 +4,8 @@
 
 - 💻 &nbsp; Data Scientist at **Optum**.
 - 👨🏻‍🎓 &nbsp; Master's Degree in Computer Science. 
-- 🎧 &nbsp; Rock 'n' Roll helps me get through my day.
-- 🔎 &nbsp; Always on the lookout for new and exciting tech.
+- 🎧 &nbsp; The power of Rock 'n' Roll keeps me going through the day.
+- 🔎 &nbsp; Constantly searching for innovative and thrilling technology.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
