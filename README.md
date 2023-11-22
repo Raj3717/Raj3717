@@ -1,6 +1,6 @@
-<h1>Hello there 🙋‍♂️</h1>
+<h1>Hello there 🙋🏻‍♂️</h1>
 
-<h3>👨‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💻 &nbsp; Data Scientist at **Optum**.
 - 👨🏻‍🎓 &nbsp; Master's Degree in Computer Science. 
