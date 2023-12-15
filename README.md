@@ -5,11 +5,9 @@
 - 💻 &nbsp; Data Scientist at **Optum**.
 - 👨🏻‍🎓 &nbsp; Master's Degree in Computer Science. 
 
-<h3>👨🏻‍💻 &nbsp;Topics Explored </h3>
+<h3>🔎 &nbsp;Topics Explored </h3>
 
-⁃ &nbsp; Natural Language Processing
-⁃ &nbsp; Computer Vision
-⁃ &nbsp; Speech Processing
+Natural Language Processing | Computer Vision | Speech Processing
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
