@@ -7,7 +7,7 @@
 
 <h3>🔎 &nbsp;Topics Explored </h3>
 
-Natural Language Processing | Computer Vision | Speech Processing
+Natural Language Processing | Time Series Analysis | Computer Vision | Speech Processing
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
