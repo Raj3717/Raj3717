@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">Computer Engineer with a Masters Degree from NSIT Delhi.</h3>
+<h1>Hello there 🙋🏻‍♂️</h1>
 
-<p align="left"> <a href="https://twitter.com/rajkrishan13" target="blank"><img src="https://img.shields.io/twitter/follow/rajkrishan13?logo=twitter&style=for-the-badge" alt="rajkrishan13" /></a> </p>
+<h3>👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working as a **Data Scientist at Optum.**
+- 💻 &nbsp; Data Scientist at **Optum**.
+- 👨🏻‍🎓 &nbsp; Master's Degree in Computer Science. 
 
-- 💬 Ask me about **Natural Language Processing | Time Series Analysis | Computer Vision | Speech Processing**
+<h3>🔎 &nbsp;Topics Explored Here </h3>
 
-- 📫 Reach me at **rajkrishan13@gmail.com**
+Natural Language Processing | Time Series Analysis | Computer Vision | Speech Processing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajkrishan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkrishan13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj3717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj3717" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_taki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_taki" height="30" width="40" /></a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raj3717"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raj%20Krishan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/raj_taki"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raj_taki-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:rajkrishan13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajkrishan13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
