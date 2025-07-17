@@ -1,11 +1,11 @@
-<h1>Hey there! 🙋🏻‍♂️</h1>
+<h1>Hello there! 🙋🏻‍♂️</h1>
 
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
 - 💻 &nbsp; Currently working as a Data Scientist at <strong>Optum</strong>.  
 - 🎓 &nbsp; Earned a Master’s degree in Computer Science.
 
-<h3>🔎 &nbsp;Areas I Explore</h3>
+<h3>🔎 &nbsp;Areas of Exploration</h3>
 
 Natural Language Processing | Time Series Analysis | Computer Vision | Audio Processing
 
